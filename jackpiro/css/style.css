@@ -1193,10 +1193,11 @@
 }
  .box_text p {
      font-size: 17px;
+     font-family: cursive;
      line-height: 30px;
      font-weight: 400;
-     text-align: right;
-     color: #181716;
+     text-align: justify;
+     color: #2285d6;
 }
  .box_text a {
      font-size: 16px;
