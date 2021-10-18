@@ -991,7 +991,7 @@
 }
  .main-menu ul > li a {
      position: relative;
-     display: block;
+     display: flex;
      cursor: pointer;
 }
  .main-menu ul > li a:before, .main-menu ul > li a:after {
