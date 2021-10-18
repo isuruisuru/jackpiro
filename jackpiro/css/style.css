@@ -973,6 +973,14 @@
  .button_login:hover {
     background-color: #ff0000b5;
 }
+.button_signup {
+    background-color: #11c03dbb;
+     padding: 4px 12px;
+     border-radius: 5px;
+}
+ .button_signup:hover {
+    background-color: #201dd4b5;
+}
  .padding_left0 {
     padding-left: 0px;
 }
