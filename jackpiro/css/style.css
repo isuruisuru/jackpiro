@@ -1118,7 +1118,8 @@
      padding-top: 90px;
 }
  .our .titlepage {
-     text-align: left;
+     text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
  .our .two-box figure {
      margin:0px;
