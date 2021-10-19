@@ -973,6 +973,14 @@
  .button_login:hover {
     background-color: #ff0000b5;
 }
+.button_signup {
+    background-color: #11c03dbb;
+     padding: 4px 12px;
+     border-radius: 5px;
+}
+ .button_signup:hover {
+    background-color: #201dd4b5;
+}
  .padding_left0 {
     padding-left: 0px;
 }
@@ -983,7 +991,7 @@
 }
  .main-menu ul > li a {
      position: relative;
-     display: block;
+     display: flex;
      cursor: pointer;
 }
  .main-menu ul > li a:before, .main-menu ul > li a:after {
@@ -1136,7 +1144,8 @@
  .our .Games p {
      font-size: 17px;
      line-height: 30px;
-     color: #181716;
+     color: #000;
+     text-align: justify;
      padding:20px 0px;
      font-weight: 400;
 }
@@ -1184,10 +1193,11 @@
 }
  .box_text p {
      font-size: 17px;
+     font-family: cursive;
      line-height: 30px;
      font-weight: 400;
-     text-align: right;
-     color: #181716;
+     text-align: justify;
+     color: #2285d6;
 }
  .box_text a {
      font-size: 16px;
